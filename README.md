@@ -1,1 +1,98 @@
-# benny
+# Welcome to Benny Learning Note 
+此Repository會紀錄大三上的**資料結構與演算法**課程中所有的上課內容，包含各種演算法的原理與程式碼實現過程，以及課堂作業、Leetcode、Codesignal的解答與學習歷程，另外也會有CS50與課堂筆記
+
+# 自我簡介:
+### **鄒孟修** (Benny)
+* 就讀於: 東吳大學
+* 主修: 巨量資料管理學系
+* 興趣: 籃球、重訓
+* 比較能理解的語言: Python
+
+
+# 檔案結構
+### 課堂作業
+- [HW1 (Quicksort)](HW1)
+- [HW2 (Heapsort & Mergesort)](HW2)
+- [HW3 (BST)](HW3)
+- [HW4 (Hash Table)](HW4)
+- [HW5 (BFS & DFS)](HW5)
+- [HW6 (Dijkstra & Kruskal)](HW6)
+
+### 自主練習
+- [Codesignal](Codesignal)
+- [Leetcode](Leetcode)
+- [CS50](CS50)
+
+### 課堂筆記
+- [classnote](classnote)
+
+# 課堂筆記
+### week 1
+- [github]()
+
+### week 2
+- [linked-List]()
+
+### week 3
+- [Stack & Queue]()
+
+### week 4
+- [Set](/classnote/Set.md) 
+- [Insertion Sort]() 
+
+### week 5
+- [Quick-Sort]()
+- [HW1: Quick Sort](HW1)
+
+### week 6
+- [Heap Sort]()
+
+### week 7
+- [Merge Sort]()
+- [HW2-merge_sort](HW2)
+- [HW2-heap_sort](HW2)
+
+### week 8
+- [Binary Tree]()
+
+### week 9
+- [Binary Search Tree]()
+- [HW3-BST](HW3)
+
+### week 10
+- [Binary Search Tree]()
+- [Red Black Tree]()
+
+### week 11 
+
+- [Hash Table]()
+- [HW4-hash_table](HW4)
+
+### week 12
+- [Breadth-First Search]()
+
+### week 13 
+- [Depth-First Search]()
+- [HW5-DFS&BFS](HW5)
+
+### week 14
+- [Minimum Spanning Tree - Kruskal]()
+
+### week 15
+- [Shortest Path - Dijkstra]()
+
+### week 16
+- [HW6-Dijkstra&Kruskal](HW6)
+
+### week 17
+- 期末考
+
+### week 18
+- 停課
+
+
+---
+
+
+# 課程心得:
+這堂課應該是大學以來最累人的一堂，但上課內容的確在未來會對我們有很大的幫助，而雖然這堂課的規定比平常的課程多很多，比如說要做github筆記等等聽起來很煩人，但這也是以後就業的時候會用到的東西，現在學期結束也可以看看我這學期到底都完成了些什麼。雖然整學期都在高壓的狀態下過去，但這學期下來我確實也從一個連`def funtion:`是什麼都看不懂的人變成可以自己寫出某些演算法的code，總之呢就謝謝這堂課，謝謝蔡教授，謝謝司助教，讓我的大三生活超級充實，啊希望我會過^^謝謝
