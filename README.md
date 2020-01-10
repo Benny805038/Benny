@@ -28,32 +28,32 @@
 
 # 課堂筆記
 ### week 1
-- [github]()
+- [github](https://github.com/Benny805038/benny/blob/master/classnote/Github.md)
 
 ### week 2
-- [linked-List]()
+- [linked-List](https://github.com/Benny805038/benny/blob/master/classnote/LinkedList.md)
 
 ### week 3
-- [Stack & Queue]()
+- [Stack & Queue](https://github.com/Benny805038/benny/blob/master/classnote/Stack%20%26%20Queue.md)
 
 ### week 4
-- [Set](/classnote/Set.md) 
-- [Insertion Sort]() 
+- [Set](https://github.com/Benny805038/benny/blob/master/classnote/Set.md) 
+- [Insertion Sort](https://github.com/Benny805038/benny/blob/master/classnote/Insertion%20Sort.md) 
 
 ### week 5
-- [Quick-Sort]()
+- [Quick-Sort](https://github.com/Benny805038/benny/blob/master/classnote/Quick%20Sort.md)
 - [HW1: Quick Sort](HW1)
 
 ### week 6
-- [Heap Sort]()
+- [Heap Sort](https://github.com/Benny805038/benny/blob/master/classnote/Heap%20sort.md)
 
 ### week 7
-- [Merge Sort]()
+- [Merge Sort](https://github.com/Benny805038/benny/blob/master/classnote/Merge%20Sort.md)
 - [HW2-merge_sort](HW2)
 - [HW2-heap_sort](HW2)
 
 ### week 8
-- [Binary Tree]()
+- [Binary Tree](https://github.com/Benny805038/benny/blob/master/classnote/Binary%20Tree.md)
 
 ### week 9
 - [Binary Search Tree](https://github.com/Benny805038/benny/blob/master/classnote/Binary%20Search%20Tree.md)
@@ -61,25 +61,25 @@
 
 ### week 10
 - [Binary Search Tree](https://github.com/Benny805038/benny/blob/master/classnote/Binary%20Search%20Tree.md)
-- [Red Black Tree]()
+- [Red Black Tree](https://github.com/Benny805038/benny/blob/master/classnote/Red%20Black%20Tree.md)
 
 ### week 11 
 
-- [Hash Table]()
+- [Hash Table](https://github.com/Benny805038/benny/blob/master/classnote/Hash%20Table.md)
 - [HW4-hash_table](HW4)
 
 ### week 12
-- [Breadth-First Search]()
+- [Breadth-First Search](https://github.com/Benny805038/benny/blob/master/classnote/Breadth-First%20Search.md)
 
 ### week 13 
-- [Depth-First Search]()
+- [Depth-First Search](https://github.com/Benny805038/benny/blob/master/classnote/Depth-First%20Search.md)
 - [HW5-DFS&BFS](HW5)
 
 ### week 14
-- [Minimum Spanning Tree - Kruskal]()
+- [Minimum Spanning Tree - Kruskal](https://github.com/Benny805038/benny/blob/master/classnote/Kruskal.md)
 
 ### week 15
-- [Shortest Path - Dijkstra]()
+- [Shortest Path - Dijkstra](https://github.com/Benny805038/benny/blob/master/classnote/Dijkstra.md)
 
 ### week 16
 - [HW6-Dijkstra&Kruskal](HW6)
