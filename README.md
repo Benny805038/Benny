@@ -60,7 +60,7 @@
 - [HW3-BST](HW3)
 
 ### week 10
-- [Binary Search Tree]()
+- [Binary Search Tree](https://github.com/Benny805038/benny/blob/master/classnote/Binary%20Search%20Tree.md)
 - [Red Black Tree]()
 
 ### week 11 
