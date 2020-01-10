@@ -32,7 +32,7 @@
 
 - [Wednesday](http://www.youtube.com/watch?v=QWnZpgZKOoc)
 
-- [筆記](/CS50/week7.md)
+- [筆記](https://github.com/Benny805038/benny/blob/master/CS50/week7.md)
 
 # week 8
 - [Monday](https://www.youtube.com/watch?v=9qvt6MwBKZQ)
