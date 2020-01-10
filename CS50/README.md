@@ -11,7 +11,7 @@
 
 - [Wednesday](https://www.youtube.com/watch?v=YxgI7ll4Xtg)
 
-- [筆記](/CS50/week3.md)
+- [筆記](https://github.com/Benny805038/benny/blob/master/CS50/week3.md)
 
 # week 4 
 - [Monday](https://www.youtube.com/watch?v=8IZ9r5kmS3Y)
