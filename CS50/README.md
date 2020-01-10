@@ -39,4 +39,4 @@
 
 - [Wednesday](http://www.youtube.com/watch?v=ihmHDZKOkA8)
 
-- [筆記](/CS50/week8.md)
+- [筆記](https://github.com/Benny805038/benny/blob/master/CS50/week8.md)
